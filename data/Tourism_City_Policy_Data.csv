@@ -1,0 +1,11 @@
+Country,City,Sustainable_Tourism_Policy_Score,Marketing_Budget_Million_USD,Tourism_Tax_Rate_Percent,Visitor_Information_Centers,Has_Cruise_Port
+Italy,Venice,69,7.1,11,2,False
+India,Mumbai,77,6.7,13,8,False
+Japan,Tokyo,55,23.1,7,5,False
+United Kingdom,Manchester,97,23.4,9,1,False
+Egypt,Luxor,83,13.2,7,8,False
+Italy,Rome,76,24.6,11,3,True
+Japan,Osaka,85,8.2,7,3,False
+Brazil,Sao Paulo,51,8.5,10,7,True
+United Arab Emirates,Dubai,71,11.4,6,3,False
+France,Paris,88,8.7,8,1,False
